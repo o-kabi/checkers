@@ -1,0 +1,9 @@
+D:\src\Checkers\Checkers.Tests\obj\Debug\Checkers.Tests.csprojResolveAssemblyReference.cache
+D:\src\Checkers\Checkers.Tests\bin\Debug\Checkers.Tests.dll
+D:\src\Checkers\Checkers.Tests\bin\Debug\Checkers.Tests.pdb
+D:\src\Checkers\Checkers.Tests\bin\Debug\Checkers.exe
+D:\src\Checkers\Checkers.Tests\bin\Debug\nunit.framework.dll
+D:\src\Checkers\Checkers.Tests\bin\Debug\Checkers.pdb
+D:\src\Checkers\Checkers.Tests\bin\Debug\nunit.framework.xml
+D:\src\Checkers\Checkers.Tests\obj\Debug\Checkers.Tests.dll
+D:\src\Checkers\Checkers.Tests\obj\Debug\Checkers.Tests.pdb

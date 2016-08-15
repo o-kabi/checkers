@@ -1,0 +1,6 @@
+D:\src\Checkers\Checkers\bin\Debug\Checkers.exe.config
+D:\src\Checkers\Checkers\bin\Debug\Checkers.exe
+D:\src\Checkers\Checkers\bin\Debug\Checkers.pdb
+D:\src\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+D:\src\Checkers\Checkers\obj\Debug\Checkers.exe
+D:\src\Checkers\Checkers\obj\Debug\Checkers.pdb
