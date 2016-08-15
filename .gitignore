@@ -1,2 +1,5 @@
-bin\Debug
-obj\Debug
+bin/
+obj/
+Debug/
+Release/
+packages/

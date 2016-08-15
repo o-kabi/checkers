@@ -1,4 +1,6 @@
-﻿namespace Checkers
+﻿using System;
+
+namespace Checkers
 {
     public class Board
     {
@@ -19,6 +21,9 @@
 
         public void MovePiece(TileLocation origin, TileLocation destination)
         {
+            if (Math.Abs(origin.X - destination.X) != 1 || Math.Abs(origin.Y - destination.Y) != 1)
+                throw new InvalidMoveException("That move is not valid");
+
             Tiles[origin.X, origin.Y].IsOccupied = false;
             Tiles[destination.X, destination.Y].IsOccupied = true;
         }
